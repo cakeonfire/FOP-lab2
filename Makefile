@@ -1,5 +1,5 @@
 TYPE := .cpp
-SRC  := z11
+SRC  := z12
 OUT_DIR := out
 
 ifeq ($(TYPE), .c)
