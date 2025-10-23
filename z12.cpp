@@ -14,7 +14,7 @@ int main(void) {
     while (i > 0) {
         cout << "Enter " << n-i+1 << ". num: ";
         cin >> tmp;
-        cout << "DEBUG: tmp: " << tmp << endl;
+        //cout << "DEBUG: tmp: " << tmp << endl;
         sum += tmp;
         count++;
 
